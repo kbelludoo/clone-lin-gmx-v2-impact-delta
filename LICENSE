@@ -1,0 +1,8 @@
+The LIN kernel in src/ is an original rewrite of the published GMX V2
+applyDeltaToPositionImpactPool pairing (pool vs lent) for audit/proof use.
+
+Pinned Solidity excerpts under fixtures/ are derived from
+gmx-io/gmx-synthetics @ a85ea3491c19c93bb4b5a002d9b358fb769b7849.
+Those excerpts are GPL-2.0-or-later after the BUSL-1.1 Change Date 2026-08-31.
+
+This repository is EXPERIMENTAL i64-scale. It is not Arbitrum GMX V2.
